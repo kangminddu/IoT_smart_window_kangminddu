@@ -14,10 +14,10 @@ Bluetooth를 통한 수동/자동 전환 및 수동 제어도 지원합니다.
 - 창문 구조 설계는 3D 프린팅으로 설계하여 하였습니다.
   
 ## 🖨️ 3D 프린팅 설계 구조
-![랙앤피니언](./랙앤피니언.png)
-![위기둥](./위기둥.png)
-![아래기둥](./아래기둥.png)
-![창문1,2](./창문1,2.png)
+<img src="./랙앤피니언.png" width = "250" height = "150" alt = "랙앤피니언"/>
+<img src="./위기둥.png" width = "250" height="100" alt = "위기둥"/>
+<img src="./아래기둥.png" width = "250" height = "150" alt = "아래기둥"/>
+<img src="./창문1,2.png" width = "250" height = "150" alt = "창문1,2"/>
 ## 💻 소프트웨어
 - Arduino IDE
 - Bluetooth Serial App (Android)
